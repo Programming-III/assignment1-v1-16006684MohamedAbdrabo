@@ -10,7 +10,8 @@ using namespace std;
 
 // ============== MAIN FUNCTION ==============
 int main() {
-    
+    new Enclosure( , 20 , 0);
+    new Visitor(Joeseph, 2);
     
     return 0;
 }
