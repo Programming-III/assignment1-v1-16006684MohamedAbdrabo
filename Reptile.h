@@ -6,7 +6,8 @@
 //define reptile class here
 
 
-
+Class Reptile {
+    bool isVenomous; }
 
 
 
