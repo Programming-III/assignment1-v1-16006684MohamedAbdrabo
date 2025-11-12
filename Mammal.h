@@ -4,6 +4,9 @@
 #include "Animal.h"
 
 //define mammal class here
+Class Mammal {
+    String furColor; }
+
 
 
 
