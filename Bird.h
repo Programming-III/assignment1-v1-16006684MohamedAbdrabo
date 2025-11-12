@@ -5,6 +5,10 @@
 
 //define class bird here 
 
+Class Bird {
+    float wingSpan;
+}
+
 
 
 
